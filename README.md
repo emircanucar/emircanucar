@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Emircan.
- I'm a candidate of web developer
+ I'm a web developer candidate.
  
 🌱 I’m currently learning and working on CSS, Bootstrap <br>
 🔭 I want to learn JS, VUEJS. I am going to start soon. <br>
