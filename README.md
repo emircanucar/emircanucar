@@ -1,5 +1,15 @@
 ### Hi there 👋 I'm Emircan.
- I'm a candidate of web developer.
+ I'm a candidate of web developer
+ 
+🌱 I’m currently learning and working on CSS, Bootstrap <br>
+🔭 I want to learn JS, VUEJS. I am going to start soon. <br>
+⚡  I know some C# <br>
+#### 📫 How to reach me: <br>
+E-mail: emircannucar33@gmail.com
+Discord: emircanucar
+
+
+ 
 <!--
 **emircanucar/emircanucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
