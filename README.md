@@ -7,7 +7,7 @@
 #### 📫 How to reach me: <br>
 E-mail: emircannucar33@gmail.com <br>
 Discord: emircanucar <br>
-Linkedin: <a href="https://www.linkedin.com/in/emircanucar/">Emircan Uçar</a>
+Linkedin: <a href="https://www.linkedin.com/in/emircanucar/" target="blank">Emircan Uçar</a>
 
 
  
