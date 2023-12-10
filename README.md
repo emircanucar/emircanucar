@@ -5,8 +5,9 @@
 🔭 I want to learn JS, VUEJS. I am going to start soon. <br>
 ⚡  I know some C# <br>
 #### 📫 How to reach me: <br>
-E-mail: emircannucar33@gmail.com
-Discord: emircanucar
+E-mail: emircannucar33@gmail.com <br>
+Discord: emircanucar <br>
+Linkedin <a href="https://www.linkedin.com/in/emircanucar/">Emircan Uçar</a>
 
 
  
