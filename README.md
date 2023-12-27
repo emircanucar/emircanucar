@@ -8,6 +8,7 @@
 E-mail: <a href="mailto:emircannucar33@gmail.com">emircannucar33@gmail.com</a> <br>
 Discord: emircanucar <br>
 Linkedin: <a href="https://www.linkedin.com/in/emircanucar/" target="_blank">Emircan Uçar</a>
+Codepen: <a href="https://codepen.io/emircanucar" target="_blank">Emircan Uçar</a>
 
 
  
