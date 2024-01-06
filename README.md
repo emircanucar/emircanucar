@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm Emircan.
  I'm a web developer candidate.
  
-🌱 I’m currently learning and working on CSS, Bootstrap <br>
+🌱 I’m currently learning and working on CSS, Bootstrap, Tailwind CSS <br>
 🔭 I want to learn JS, VUEJS. I am going to start soon. <br>
 ⚡  I know some C# <br>
-#### 📫 How to reach me: <br>
+#### 📫 How to reach me / Links: <br>
 E-mail: <a href="mailto:emircannucar33@gmail.com">emircannucar33@gmail.com</a> <br>
 Discord: emircanucar <br>
-Linkedin: <a href="https://www.linkedin.com/in/emircanucar/" target="_blank">Emircan Uçar</a>
+Linkedin: <a href="https://www.linkedin.com/in/emircanucar/" target="_blank">Emircan Uçar</a> <br>
 Codepen: <a href="https://codepen.io/emircanucar" target="_blank">Emircan Uçar</a>
 
 
