@@ -11,9 +11,9 @@ Discord: emircanucar <br>
 Linkedin: <a href="https://www.linkedin.com/in/emircanucar/" target="_blank">Emircan Uçar</a> <br>
 Codepen: <a href="https://codepen.io/emircanucar" target="_blank">Emircan Uçar</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emircanucar&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emircanucar&layout=compact&theme=transparent&border_radius=8&locale=tr&border_color=808080)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircanucar&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emircanucar&show_icons=true&theme=transparent&border_radius=8&locale=tr&border_color=808080)
  
 <!--
 **emircanucar/emircanucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
