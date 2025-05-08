@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Emircan.
-I'm a web developer candidate. <br>
+I'm a front-end developer. <br>
 ✉️  You can reach me [emircannucar33@gmail.com](mailto:emircannucar33@gmail.com)
 ### Skills + Learning + Using
 <p align="left">
